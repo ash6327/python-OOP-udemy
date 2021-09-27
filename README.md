@@ -1,1 +1,1 @@
-# python-OOP-udemy
+The following is OOP concepts of python which i used to study from udemy.These files consist of basic OOP concepts and can help anyone who reads it to understand OOP concepts like classes,objects,polymorphism,inheritance,encapsulation and abstraction.
